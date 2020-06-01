@@ -19,9 +19,9 @@ The idea for this project hit me when I was in Belgium a few
 years ago in a bar in Brussels and noticed that the bar had
 a subscriber counter for their Instagram account. It was hanging
 on the wall and analog-based, like an old clock radio where the
-numbers switch via small plastic flappers in real-time. You could
+numbers switch via small plastic flappers. You could
 pull out your phone and follow/unfollow the bar and watch the
-count change. Curious about this, I looked up these devices 
+count change in real-time. Curious about this, I looked up these devices 
 online to find that they cost several 1000s of dollars! 
 
 I thought it would be fun to make a simple, cost effective 
