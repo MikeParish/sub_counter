@@ -27,7 +27,7 @@ online to find that they cost several 1000s of dollars!
 I thought it would be fun to make a simple, cost effective 
 one. With all of the parts included, depending on what Raspberry
 Pi unit you have, this would cost at most $50, although you might 
-want to spend additional money on a some sort of case. Also, 
+want to spend additional money on some sort of case. Also, 
 depending on how big of a display you want, and how many 
 subscribers you want to display, you may need to cascade several
 of the display units together.
@@ -40,7 +40,7 @@ https://www.amazon.com/s?k=8x8+LED+Matrix
 
 I am using the Raspberry Pi 4 4GB for prototyping but any unit
 with GPIO pins for the LED matrix and Internet connectivity will
-work well.
+work.
 
 Special thanks to Wayne at devscover.com for inspiring this
 project.
