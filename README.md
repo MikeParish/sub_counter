@@ -1,4 +1,6 @@
-#sub_counter
+# sub_counter
+
+![](images/IMG_0641.jpg)
 
 sub_counter is a project which utilizes a Raspberry Pi and an 
 LED matrix to display a subscriber number from a social media
@@ -10,6 +12,8 @@ day) and then display it to the matrix.
 
 This project uses the luma library to create the virtual image
 for the LED matrix and then draw that image to the LED matrix.
+
+## The Idea
 
 The idea for this project hit me when I was in Belgium a few
 years ago in a bar in Brussels and noticed that the bar had
@@ -27,6 +31,8 @@ want to spend additional money on a some sort of case. Also,
 depending on how big of a display you want, and how many 
 subscribers you want to display, you may need to cascade several
 of the display units together.
+
+## References
 
 I used the HiLetGo MAX7219 Dot Matrix Module for this project.
 They are $8.50 USD on Amazon:
